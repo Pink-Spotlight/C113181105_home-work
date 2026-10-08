@@ -1,6 +1,6 @@
 # Mame:張士宏 <BR>
 # SID: C113181105 <BR>
-# EX03
+# EX02
 <HR>
 <?php
 $total = 0;

@@ -1,6 +1,6 @@
 # Mame:張士宏 <BR>
 # SID: C113181105 <BR>
-# EX02
+# EX01
 <HR>
 <?php 
 $grade =60;
