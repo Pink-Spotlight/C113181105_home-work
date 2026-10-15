@@ -6,6 +6,7 @@ function printHeader()
     echo "<h3>EX04</h3>";
     echo "<HR>";
 }
+printHeader();
 $test = 15;
 var_dump($test);
 unset($test);
