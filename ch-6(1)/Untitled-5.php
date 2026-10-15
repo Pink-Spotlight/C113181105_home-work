@@ -11,8 +11,8 @@ function callFunc1(closure $closure)
 {
     $closure();
 }
-function callFunc2(closure $callback){
-    $callback();
+function callFunc2(callable $callable){
+    $callable();
 }
 
 $hello = function() {
