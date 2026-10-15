@@ -7,11 +7,11 @@ function printHeader()
     echo "<HR>";
 }
 
-function callunc1(closure $closure)
+function callFunc1(closure $closure)
 {
     $closure();
 }
-function callunc2(closure $callback){
+function callFunc2(closure $callback){
     $callback();
 }
 
@@ -24,7 +24,7 @@ function hi()
 {
     echo "Hi,world!<br/>";
 }
-callunc1($hello);
-callunc2("hi");
-callunc2($hello);
+callFunc1($hello);
+callFunc2("hi");
+callFunc2($hello);
 ?>
