@@ -9,6 +9,7 @@ function printFooter()
 {
     echo "<hr><BR>";
     echo "(c)C113181105-張士宏. All Rights Reserved.";
+    echo "<h3>EX02</h3>";
 }
 
 
