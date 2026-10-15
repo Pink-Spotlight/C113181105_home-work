@@ -4,6 +4,7 @@ function printHeader()
     echo "<h3>PHP and MySQL  PageDesign</h3>";
 }
 
+
 function printFooter()
 {
     echo "<hr><BR>";
