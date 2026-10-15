@@ -25,6 +25,6 @@ function hi()
     echo "Hi,world!<br/>";
 }
 callunc1($hello);
-callunc2($hi);
+callunc2("hi");
 callunc2($hello);
 ?>
