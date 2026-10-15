@@ -15,5 +15,5 @@ function rateExchange($amout,$rate)
 
 $rate = rateExchange(100, 32.5);
 printHeader();
-echo "<hr>Money:</hr>".$rate;
+echo "Money:".$rate;
 ?>
