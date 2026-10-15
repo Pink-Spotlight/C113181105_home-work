@@ -19,7 +19,7 @@ $hello = function() {
     echo "hellow,world!<br/>";
 };
 
-
+printHeader();
 function hi()
 {
     echo "Hi,world!<br/>";

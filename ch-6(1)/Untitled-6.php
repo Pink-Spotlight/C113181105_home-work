@@ -7,7 +7,7 @@ function printHeader()
     echo "<HR>";
 }
 
-
+printHeader();
 $weight = 75;
 $bmi = function ($height) use ($weight) {
 $height = $height / 100.0;
