@@ -1,5 +1,5 @@
 <?php
-function printFooter()
+function printHeader()
 {
     echo "<h3>Name:張士宏</h3>";
     echo "<h3>SID: C113181105</h3>";
