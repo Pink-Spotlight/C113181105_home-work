@@ -1,9 +1,11 @@
-<?php 
-function printHeader() {
+<?php
+function printHeader()
+{
     echo "<h3>PHP and MySQL  PageDesign</h3>";
 }
 
-function printFooter() {
+function printFooter()
+{
     echo "<hr><BR>";
     echo "(c)C113181105-張士宏. All Rights Reserved.";
 }
