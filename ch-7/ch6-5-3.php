@@ -13,3 +13,4 @@ $file = "ch6-5-1.inc";
 require $file;
 
 require("about_me.php");
+echo "EX01<br/>";
