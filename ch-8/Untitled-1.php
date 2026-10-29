@@ -17,3 +17,4 @@ echo "Remove whitespace from both ends: \"" . trim($str2) . "\"<br/>";
 echo "Remove whitespace from start: \"" . ltrim($str2) . "\"<br/>";
 echo "Remove whitespace from end: \"" . rtrim($str2) . "\"<br/>";
 echo "Remove whitespace from end: \"" . chop($str2) . "\"<br/>";
+?>
