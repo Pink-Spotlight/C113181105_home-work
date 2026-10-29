@@ -1,6 +1,6 @@
 <?php
 require("about_me.php");
-echo"EX01";
+echo"EX01<br/>";
 $str1 = "PHP and MySQL Wed Programming";
 $str2 = "PHP 與MySQL網頁設計範例教本";
 
