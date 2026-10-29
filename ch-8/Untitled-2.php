@@ -33,7 +33,7 @@ if (isset($_GET["Reg"])) {
         require("about_me.php");
         echo "W08-EX03" . "<br/>";
         ?>
-    <form action="ch08-4-5.php" method="get">
+    <form action="Untitled-2.php" method="get">
         Name: <input type=text name="Name" /><br />
         ID: <input type=text name="UserName" /><br />
         Password: <input type=password name="Pass1" /><br />
