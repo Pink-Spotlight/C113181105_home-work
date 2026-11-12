@@ -11,3 +11,4 @@ $id = $_SESSION["ID"]; // 取得Session變數
     setcookie($id . "[Price]", $price, time() + 3600);
     setcookie($id . "[Quantity]", $quantity, time() + 3600);
     header("Location: shoppingcart.php");
+?>
