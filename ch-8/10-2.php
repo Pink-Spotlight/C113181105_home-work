@@ -22,8 +22,17 @@ function each(&$array)
         <td>價格</td>
         <td>數量</td>
     </tr>
+
+    <?php
+    $flag = false;
+    $total = 0;
+    while (list($arr, $value) = each($_COOKIE)) {
+
+    }
+    ?>
+    keep
 </table>
 
 <HR><HR>
- <a href="catalog.php">Catalog</a> |
+<a href="catalog.php">Catalog</a> |
 <a href="shoppingcart.php">Mini Cart</a>
